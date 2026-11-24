@@ -302,8 +302,8 @@
       "url_report": "",
       "url_insert": "",
       "url_remove": "",
-      "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
-      "url_idle": "",
+      "url_loader": "",
+      "url_idle": "https://raw.githubusercontent.com/Ceron0503/INBURSA-L-F/refs/heads/main/HOME_EX6000.json",
       "url_denied": "",
       "url_approve": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPS_v2_720x1600.json",
       "enable": true
@@ -314,10 +314,10 @@
       "url_report": "",
       "url_insert": "",
       "url_remove": "",
-      "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
-      "url_idle": "",
+      "url_loader": "",
+      "url_idle": "https://raw.githubusercontent.com/Ceron0503/INBURSA-L-F/refs/heads/main/HOME_EX6000.json",
       "url_denied": "",
-      "url_approve": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPS_v2_720x1600.json",
+      "url_approve": "",
       "enable": true
     },
     {
